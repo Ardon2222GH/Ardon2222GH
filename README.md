@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="200" alt="Coding GIF">
+  <img src="https://wallpapers-clan.com/wp-content/uploads/2024/08/fairy-tail-natsu-dragneel-in-flame-gif-desktop-wallpaper-preview.gif" width="200" alt="Coding GIF">
   <h1>Eduard Elenchev Georgiev</h1>
 </div>
 
