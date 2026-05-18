@@ -7,9 +7,9 @@
 ¡Wenaas, soy Ardon, o Eduard, como prefieras, soy un Informatico Junior con ganas de aprender mas para llegar un dia a crear algo propio
 
 - 📍Ubicacion📍 - Palma de Mallorca
-- 🎂Edad🎂 - 20 años (2 decadas, ya toy viejo 👴)
-- 🌱Aprendiendo🌱 - Java · HTML · CSS · XML · (Y tambien JavaScript 😓)
-- ✨Intereses✨ - Tecnología, videojuegos, crear algo propio
+- 🎂Edad🎂 - 21 años (2 decadas, ya toy viejo 👴)
+- 🌱Aprendiendo🌱 - Java · HTML · CSS · XML · Flutter · (Y tambien JavaScript 😓)
+- ✨Intereses✨ - Tecnología, Videojuegos, Streaming
 
 ---
 ## 👨🏼‍🎓 Conocimientos
