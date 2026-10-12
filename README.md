@@ -6,10 +6,10 @@
 
 ¡Wenaas, soy Ardon! o Eduard, como prefieras, soy un Informatico Junior con ganas de aprender mas para llegar un dia a tener su propia creacion
 
-- 📍Ubicacion📍 - Palma de Mallorca
+- 📍Ubicacion📍 - Galicia -> Ourense
 - 🎂Edad🎂 - 21 años (2 decadas, ya toy viejo 👴)
-- 🌱Aprendiendo🌱 - Java · HTML · CSS · XML · Flutter · (Y tambien JavaScript 😓)
-- ✨Intereses✨ - Tecnología, Videojuegos, Streaming
+- 🌱Aprendiendo🌱 - Ciberseguridad, Inteligencia Artificial
+- ✨Intereses✨ - Tecnología, Videojuegos, Streaming, IA, Automatizacion, Optimizacion
 
 ---
 ## 👨🏼‍🎓 Conocimientos
@@ -39,15 +39,5 @@
 
 ## 📚 Estudios
 
-- Sistemas Microinformaticos y Redes (SMR) | Finalizado
-- Desarrollo de Aplicaciones Multiplataforma (DAM) | 1/2 Años Finalizados
-
----
-
-## ✨ Cositas
-
-Una mini pagina Web que hice para un trabajo
-https://ardon2222gh.github.io/Ar-Nime/
-
-
----
+- Sistemas Microinformaticos y Redes (SMR)
+- Desarrollo de Aplicaciones Multiplataforma (DAM)
