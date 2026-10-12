@@ -4,7 +4,7 @@
 
 ## 🔥 Sobre mí
 
-¡Wenaas, soy Ardon, o Eduard, como prefieras, soy un Informatico Junior con ganas de aprender mas para llegar un dia a crear algo propio
+¡Wenaas, soy Ardon! o Eduard, como prefieras, soy un Informatico Junior con ganas de aprender mas para llegar un dia a tener su propia creacion
 
 - 📍Ubicacion📍 - Palma de Mallorca
 - 🎂Edad🎂 - 21 años (2 decadas, ya toy viejo 👴)
